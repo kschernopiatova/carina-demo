@@ -132,6 +132,7 @@
 					<suiteXmlFiles>
 						<suiteXmlFile>${project.build.directory}/test-classes/testng_suites/${suite}.xml</suiteXmlFile>
 					</suiteXmlFiles>
+					<printSummary>true</printSummary>
 				</configuration>
 			</plugin>
 		</plugins>
